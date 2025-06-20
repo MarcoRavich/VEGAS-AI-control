@@ -1,4 +1,4 @@
-# Adapting [Bitwig MCP Server](https://github.com/WeModulate/bitwig-mcp-server#readme) to MAGIX Vegas
+# Mimic [Bitwig MCP Server](https://github.com/WeModulate/bitwig-mcp-server#readme) to MAGIX Vegas
 
 ## Overview
 
