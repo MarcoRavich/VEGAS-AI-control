@@ -1,8 +1,8 @@
-# Mimic [Bitwig MCP Server](https://github.com/WeModulate/bitwig-mcp-server#readme) to MAGIX Vegas
+# Mimic [Bitwig MCP Server](https://github.com/WeModulate/bitwig-mcp-server#readme) on MAGIX Vegas Pro
 
 ## Overview
 
-This guide explains how to provide similar remote-control and automation features in MAGIX Vegas as those offered by the [Bitwig MCP Server](https://github.com/WeModulate/bitwig-mcp-server#readme), by leveraging Vegas’s scripting API.
+This guide explains how to provide similar remote-control and automation features in MAGIX Vegas Pro as those offered by the [Bitwig MCP Server](https://github.com/WeModulate/bitwig-mcp-server#readme), by leveraging Vegas’s scripting API.
 
 ## Mapping Core Features
 
