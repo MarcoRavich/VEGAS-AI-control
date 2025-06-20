@@ -1,4 +1,4 @@
-# Mimic [Bitwig MCP Server](https://github.com/WeModulate/bitwig-mcp-server#readme) on [MAGIX Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/)
+# Mimic [Bitwig MCP Server](https://github.com/WeModulate/bitwig-mcp-server#readme) on [MAGIX Vegas Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) <img align="right" src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FMarcoRavich%2FVEGAS-AI-control%2Fblob%2Fmain%2FREADME.md&label=D%20%2F%20T&labelColor=%23323232&countColor=%23c2ff00&style=flat-square&labelStyle=none" /></a>
 
 ## Overview
 
