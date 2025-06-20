@@ -28,7 +28,7 @@ For remote control, use a local server (e.g., Python or Node.js) to listen for O
 
 ## Files
 
-- [BitwigMCPAdapter.cs](https://github.com/MarcoRavich/VEGAS-AI-control/blob/main/BitwigMCPAdapter.cs): Vegas script implementing DAW control methods.
+- [MCPcontrol.cs](https://github.com/MarcoRavich/VEGAS-AI-control/blob/main/MCPcontrol.cs): Vegas script implementing DAW control methods.
 - [osc_bridge.py](https://github.com/MarcoRavich/VEGAS-AI-control/blob/main/osc_bridge.py) (optional): Python script acting as a bridge between MCP/OSC and the Vegas script.
 
 ---
